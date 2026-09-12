@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><img src="https://jacoblin.cool" alt="LeetCode Stats" />
-[![LeetCode](https://shields.io)](https://leetcode.com)
+### 🚀 Coding Profiles
+* **LeetCode:** [BHARATH02w](https://leetcode.com)
+
 
 
