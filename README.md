@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://jacoblin.cool)
+<img src="https://jacoblin.cool" alt="LeetCode Stats" />
+
 
